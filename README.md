@@ -4,8 +4,7 @@
 
 - 🌱 I’m currently learning Python, JS, and Java.
 
-- 💞️ I’m looking to collaborate on projects that deal with the abovementioned technologies and help to develop and deepen my own understand of them, while being a part
-- of a team and working to solve projects and problems. 
+- 💞️ I’m looking to collaborate on projects that deal with the abovementioned technologies and help to develop and deepen my own understanding of them, while being a part of a team and working to solve projects and problems. 
 
 - 📫 How to reach me:
 -   email: gjohncarter@protonmail.com
