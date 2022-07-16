@@ -2,7 +2,7 @@
 
 - 👀 I’m interested in all things technology and development, love the outdoors and nature, and am an avid fly fishermen. My mind is always intensively curious about new tech and how it continues to develop and better serve people as a whole. 
 
-- 🌱 I’m currently learning Python, JS, and Java.
+- 🌱 I’m currently learning Python, JS, Java, and Lua.
 
 - 💞️ I’m looking to collaborate on projects that deal with the abovementioned technologies and help to develop and deepen my own understanding of them, while being a part of a team and working to solve projects and problems. 
 
