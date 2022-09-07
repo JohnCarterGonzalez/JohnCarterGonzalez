@@ -14,8 +14,6 @@
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johncartergonzalez&show_icons=true&locale=en&layout=compact" alt="johncartergonzalez" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=johncartergonzalez&" alt="johncartergonzalez" /></p>
  
 
 <!---
