@@ -1,4 +1,8 @@
 <h1 align="center">Hi 👋, I'm JohnCarter Gonzalez</h1>
+![hello world](https://github.com/hayat-tamboli/hayat-tamboli/raw/master/hello-world.png)
+
+<hr/>
+
 <h3 align="center">A passionate fullstack developer from the PNW of the USA. Learning is a passion of mine, I enjoy all things technology, fly fishing, motorcycles, and mexican food. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johncartergonzalez&label=Profile%20views&color=0e75b6&style=flat" alt="johncartergonzalez" /> </p>
