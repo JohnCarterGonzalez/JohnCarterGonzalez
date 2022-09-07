@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm JohnCarter Gonzalez</h1>
-![alt](https://github.com/JohnCarterGonzalez/JohnCarterGonzalez/blob/main/hello-world.png)
+![alt](hello-world.png)
 
 <hr/>
 
