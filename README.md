@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm JohnCarter Gonzalez</h1>
-![hello world](https://github.com/hayat-tamboli/hayat-tamboli/raw/master/hello-world.png)
+![hello world](https://github.com/JohnCarterGonzalez/JohnCarterGonzalez/raw/master/hello-world.png)
 
 <hr/>
 
