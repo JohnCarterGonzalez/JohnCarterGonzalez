@@ -11,7 +11,14 @@
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,vim,nodejs,react,mongodb,mysql)](https://skillicons.dev)
 
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=johncartergonzalez&label=Profile%20views&color=0e75b6&style=flat" alt="johncartergonzalez" /></p>
+<h3 align="left">Projects:</h3>
+
+[![My Skills](https://skillicons.dev/icons?i=react,tailwind)](https://skillicons.dev)
+
+<a href="https://modernreacttailwind-app.vercel.app/">
+  <img src="/site.png" height="200px" width="300px" />
+ </a>
+
 
 <h3 align="left">Connect with me:</h3>
 <a href="https://www.linkedin.com/in/john-carter-gonzalez-a24486240/">
