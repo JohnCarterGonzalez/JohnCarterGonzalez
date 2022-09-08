@@ -8,8 +8,7 @@
 
 <h3 align="left"> These technologies fuel my passion projects!</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,py,rust,vim,nodejs,react,git,rocket,discord,flask,mongodb,mysql)](https://skillicons.dev)
-
+[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,vim,nodejs,react,mongodb,mysql)](https://skillicons.dev)
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johncartergonzalez&label=Profile%20views&color=0e75b6&style=flat" alt="johncartergonzalez" /></p>
 
@@ -23,12 +22,6 @@
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
-
-
-<p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johncartergonzalez&theme=city_lights&show_icons=true&locale=en&layout=compact" alt="johncartergonzalez" height="200px" width="300px" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=johncartergonzalez&theme=city_lights&show_icons=true" alt="jcgithub" height="183px" width="400px"/>
-</p>
  
 
 <!---
