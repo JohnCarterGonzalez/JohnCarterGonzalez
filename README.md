@@ -1,9 +1,9 @@
 <h1 align="center">Hi 👋, I'm JohnCarter Gonzalez</h1>
 <hr/>
 
-![hello world](/hello-world.png)
+![hello world](/enchantments.jpg)
 
-<h3 align="center">A passionate fullstack developer from the PNW of the USA. Learning is a passion of mine, I enjoy all things technology, fly fishing, motorcycles, and mexican food. </h3>
+<h3 align="center">A passionate fullstack developer from the PNW of the USA. Learning and growing in community is a passion of mine, I enjoy all things technology, fly fishing, motorcycles, and mexican food! </h3>
 <hr/>
 
 <h3 align="left"> These technologies fuel my passion projects!</h3>
@@ -14,13 +14,17 @@
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=johncartergonzalez&label=Profile%20views&color=0e75b6&style=flat" alt="johncartergonzalez" /> </p>
 
 <h3 align="left">Connect with me:</h3>
-<p align="left">Email: gjohncarter@protonmail.com
+<a href="https://www.linkedin.com/in/john-carter-gonzalez-a24486240">
+  <img align="center" alt="JohnCarter @LinkedIN" width="22px" marigsrc="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />
+   <a href="mailto:gjohncarter@protonmail.com">
+  <img align="center" alt="JohnCarter @Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
 
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johncartergonzalez&theme=nord&show_icons=true&locale=en&layout=compact" alt="johncartergonzalez" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johncartergonzalez&theme=city_lights&show_icons=true&locale=en&layout=compact" alt="johncartergonzalez" /></p>
  
 
 <!---
