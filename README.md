@@ -1,6 +1,10 @@
 <h1 align="center">Hi 👋, I'm JohnCarter Gonzalez</h1>
 ![alt](hello-world.png)
 
+
+
+            hello-world.png
+          
 <hr/>
 
 <h3 align="center">A passionate fullstack developer from the PNW of the USA. Learning is a passion of mine, I enjoy all things technology, fly fishing, motorcycles, and mexican food. </h3>
