@@ -6,6 +6,7 @@
 <h3 align="center">This ^ is my favorite place in the world, reach out and ask me about it! I'm a passionate fullstack developer from the PNW of the USA. Learning and growing in community is a passion of mine, I enjoy all things technology, fly fishing, motorcycles, and mexican food! </h3>
 <hr/>
 
+<h3 align="left">Languages and Tools:</h3>
 <h3 align="left"> These technologies fuel my passion projects!</h3>
 
 [![My Skills](https://skillicons.dev/icons?i=js,html,css,java,vim,nodejs,react,mongodb,mysql)](https://skillicons.dev)
@@ -20,8 +21,6 @@
   <img align="center" alt="JohnCarter @Mail" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
 </a>
 </p>
-
-<h3 align="left">Languages and Tools:</h3>
  
 
 <!---
