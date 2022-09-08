@@ -26,8 +26,8 @@
 
 
 <p>
-  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johncartergonzalez&theme=city_lights&show_icons=true&locale=en&layout=compact" alt="johncartergonzalez" height="194px" width="400px" />
-  <img align="right" src="https://github-readme-stats.vercel.app/api?username=johncartergonzalez&theme=city_lights&show_icons=true" alt="jcgithub" height="194px" width="400px"/>
+  <img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=johncartergonzalez&theme=city_lights&show_icons=true&locale=en&layout=compact" alt="johncartergonzalez" height="194px" width="300px" />
+  <img align="right" src="https://github-readme-stats.vercel.app/api?username=johncartergonzalez&theme=city_lights&show_icons=true" alt="jcgithub" height="194px" width="300px"/>
 </p>
  
 
