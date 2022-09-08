@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm JohnCarter Gonzalez</h1>
-<hr/>
+
 
 ![hello world](/enchantments.jpg)
 
