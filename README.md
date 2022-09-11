@@ -9,7 +9,7 @@
 <h3 align="left">Languages and Tools:</h3>
 <h3 align="left"> These technologies fuel my passion projects!</h3>
 
-[![My Skills](https://skillicons.dev/icons?i=js,html,css,java,vim,nodejs,react,mongodb,mysql)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=vim,js,html,css,java,nodejs,react,mongodb,mysql)](https://skillicons.dev)
 
 <h3 align="left">Projects:</h3>
 
