@@ -20,5 +20,7 @@ Fun Facts:
   Puerh Tea > Coffee (;
   
 Contact Info:
+  <br/>
   Email: cascadedevelopment@proton.me
+  <br/>
   Discord: SpeakEze#1448
