@@ -7,6 +7,7 @@ optimization, constant student of self-development. Ruby on Rails developer who 
 
 Fun Facts:
   Picard over Kirk
+  <br/>
   Han shot first
   The dress was blue and black
   Backpacking is therapy
