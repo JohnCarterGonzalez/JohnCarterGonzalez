@@ -7,6 +7,6 @@ optimization, constant student. Ruby on Rails developer who is learning about ot
   
 Contact Info:
   <br/>
-  Email: cascadedevelopment@proton.me
+  Email: johncartergonzalez@cascade.sh
   <br/>
-  Discord: SpeakEze#1448
+  Discord: cpt_n3m000_59183 
