@@ -7,6 +7,6 @@ optimization, constant student. Backend software developer who is learning about
   
 Contact Info:
   <br/>
-  Email: johncartergonzalez@cascade.sh
+  Email: johncarter@gonzalez.codes
   <br/>
   Discord: cpt_n3m000_59183 
