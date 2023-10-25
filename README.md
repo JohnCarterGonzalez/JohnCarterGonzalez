@@ -18,5 +18,4 @@ I am a:
 
 
 
-- ⚡ Fun fact: Incoming(TODO) !
-  
+- ⚡ Fun fact: My perfect t-shirt weaher has been recorded to be 48 degrees Farenheit 
