@@ -8,7 +8,7 @@ I am a:
 
 
 #### Contact Information:
-- Email: `johncarter <at> gonzalez.codes`
+- Email: `johncarter@gonzalez.codes`
 - Discord: `cpt_n3m000_59183`
 
 #### Projects:
